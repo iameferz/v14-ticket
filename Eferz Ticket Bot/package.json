@@ -1,0 +1,21 @@
+{
+  "name": "Eferz",
+  "version": "4.0.0",
+  "description": "Eferz Tarafından Hazırlanmış v14 Discord Ticket Botu Altyapısı",
+  "main": "eferz.js",
+  "scripts": {
+    "start": "node eferz.js"
+  },
+  "keywords": [],
+  "author": "Ly3ssia",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.0.0",
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.0.1",
+    "fs": "^0.0.1-security"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
